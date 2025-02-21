@@ -17,8 +17,11 @@ Your company is working on a cloud-native microservices application that needs a
 
 ### Implementation Tasks (GitHub Codespaces)
 
-Use this codespace template to start a new codespace with Kubernetes preinstalled:
-https://github.com/cse-labs/kubernetes-in-codespaces
+- This GitHub repository will be accessible to you once you accept the Playground Challenge.
+- You have to work directly in this GitHub repository. It is like your own copy of the original repository.
+- Start a new Codespace. It will have Kubernetes preinstalled.
+
+  Note that it may take around 5 minutes for the Codespace to start after you click on "Create Codespace".
 
 
 #### **Part 1: Cassandra Setup on Kubernetes**
